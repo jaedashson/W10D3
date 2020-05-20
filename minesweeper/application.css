@@ -1,0 +1,26 @@
+.board {
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.tile {
+  border-style: outset;
+  height: 30px;
+  width: 30px;
+  background-color: lightgray;
+}
+
+.bombed {
+  
+}
+
+.revealed {
+  border-style: inset;
+}
+
+.flagged {
+
+}
